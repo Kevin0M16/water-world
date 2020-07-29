@@ -422,7 +422,7 @@
 	  <locked value="true"/>
 	</Item>
 	<Item>
-	  <filename>resources:/water-world/water.xml</filename>
+	  <filename>resources:/water-world/meta/water.xml</filename>
 	  <fileType>WATER_FILE</fileType>
 	</Item>
 	<Item>
