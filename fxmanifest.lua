@@ -7,6 +7,6 @@ version '1.0.0'
 
 replace_level_meta 'gta5'
 files {
-    'gta5.meta',
-    'water.xml'
+    'meta/gta5.meta',
+    'meta/water.xml'
 }
