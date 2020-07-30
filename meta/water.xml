@@ -14,7 +14,7 @@ To change wave height, change value of Amplitude value="130". -->
       <Type value="0" />
       <IsInvisible value="false" />
       <HasLimitedDepth value="false" />
-      <z value="220.0" /><!-- Water height-->
+      <z value="30.0" /><!-- Water height-->
       <a1 value="26" />
       <a2 value="26" />
       <a3 value="26" />
@@ -28,7 +28,7 @@ To change wave height, change value of Amplitude value="130". -->
       <maxX value="12000" />
       <minY value="-12000" />
       <maxY value="12000" />
-      <Amplitude value="1" /><!--Wave height-->
+      <Amplitude value="120" /><!--Wave height-->
       <XDirection value="0.9" />
       <YDirection value="-0.2" />
     </Item>
